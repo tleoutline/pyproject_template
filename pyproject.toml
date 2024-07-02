@@ -1,0 +1,14 @@
+[project]
+name = "sampleproject"
+dynamic = ["version"]
+description = "A sample Python project"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE.txt"}
+
+authors = [
+    {name = "Apipoo Paleeya", email = "tleoutline@gmail.com"}
+]
+dependencies = [
+
+]
